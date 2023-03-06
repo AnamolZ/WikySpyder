@@ -1,4 +1,4 @@
-# Project Name: CloudX Changed as Wiky Search
+# CloudX
 
 ## Project Description
 
