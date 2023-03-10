@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project is a Python GUI application built using the `customtkinter` library. It allows users to search for information on Wikipedia by entering a keyword. The application retrieves information from Wikipedia using the `Requests` and `BeautifulSoup` libraries and displays the information.
+Python GUI application built using the `customtkinter` library. It allows users to search for information on Wikipedia by entering a keyword. The application retrieves information from Wikipedia using the `Requests` and `BeautifulSoup` libraries and displays the information.
 
 ![image](https://user-images.githubusercontent.com/97016425/223320937-5a075cd0-f0ef-4435-aa4f-ce3a69ba486c.png)
 
